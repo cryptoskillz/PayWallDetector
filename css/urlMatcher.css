@@ -1,0 +1,8 @@
+
+.money-build-icon {
+	width: 20px;
+	height: 16px;
+	background-image:url('chrome-extension://__MSG_@@extension_id__/images/money-build-icon.png');
+	display: inline-block; 
+	margin-bottom: -4px;
+}
